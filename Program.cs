@@ -2,11 +2,11 @@
 
 class Program
 {
-    static void Print(char symbol, int width)
+    static void Print(char symbol, int heidth)
     {
-        for (int i = 0; i < width; i++)
+        for (int i = 0; i < heidth; i++)
         {
-            Console.Write(new string(' ', width - i - 1));
+            Console.Write(new string(' ', heidth - i - 1));
             Console.Write(symbol);
             if (i > 0)
             {
@@ -15,9 +15,9 @@ class Program
             }
             Console.WriteLine();
         }
-        for (int i = width - 2; i >= 0; i--)
+        for (int i = heidth - 2; i >= 0; i--)
         {
-            Console.Write(new string(' ', width - i - 1));
+            Console.Write(new string(' ', heidth - i - 1));
             Console.Write(symbol);
             if (i > 0)
             {
@@ -37,15 +37,15 @@ class Program
             Console.WriteLine("Wrong symbol");
             return;
         }
-        Console.WriteLine("Enter the weight");
-        int weight = Convert.ToInt32(Console.ReadLine());
-        if (weight <= 0)
+        Console.WriteLine("Enter the height");
+        int height = Convert.ToInt32(Console.ReadLine());
+        if (height <= 0)
         {
             Console.WriteLine("weight can't be min 0");
             return;
         }
         
-        Print(symbol, weight);
+        Print(symbol, height);
 
     }
 }
