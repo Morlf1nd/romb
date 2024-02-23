@@ -1,0 +1,15 @@
+D:\vs code\project\Exam2\bin\Debug\net8.0\Exam2.exe
+D:\vs code\project\Exam2\bin\Debug\net8.0\Exam2.deps.json
+D:\vs code\project\Exam2\bin\Debug\net8.0\Exam2.runtimeconfig.json
+D:\vs code\project\Exam2\bin\Debug\net8.0\Exam2.dll
+D:\vs code\project\Exam2\bin\Debug\net8.0\Exam2.pdb
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.AssemblyInfoInputs.cache
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.AssemblyInfo.cs
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.csproj.CoreCompileInputs.cache
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.sourcelink.json
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.dll
+D:\vs code\project\Exam2\obj\Debug\net8.0\refint\Exam2.dll
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.pdb
+D:\vs code\project\Exam2\obj\Debug\net8.0\Exam2.genruntimeconfig.cache
+D:\vs code\project\Exam2\obj\Debug\net8.0\ref\Exam2.dll
